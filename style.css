@@ -10,3 +10,10 @@ body, html {
     background-size: cover;
   }
 
+  #header{
+    font-size: 45px;
+    
+  }
+  #task-list>li>i{
+    cursor: pointer;
+  }
